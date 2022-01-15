@@ -74,4 +74,4 @@ typings/
 
 # FuseBox cache
 .fusebox/
-public/video/video_1080.mp4
+public/video/*
